@@ -1,0 +1,75 @@
+body {
+	background-image: url("http://nu.bootcampcontent.com/NU-Coding-Bootcamp/09-16-Class-Content/raw/master/homeworks/04-jquery-hw/resources/crystals_updated/background_img.jpg");
+}
+
+.title {
+	background-color: red;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+	font-size: 30px;
+	max-width: 250px;
+	text-align: center;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+.instructions {
+	background-color: tan;
+	color: green;
+	font-size: 15px;
+	max-width: 300px;
+	text-align: center;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+
+.container {
+	margin-left: 10px;
+
+}
+
+img {
+	height: 63px;
+	width: auto;
+}
+
+p {
+	text-align: left;
+}
+
+.random {
+	padding: 20px;
+	text-align: center;
+	height: 20%;
+	width: 20%;
+	width: 80px;
+	margin-right: 0px;
+	background-color: green;
+}
+
+.totscore {
+	padding: 20px;
+	text-align: center;
+	height: 20%;
+	width: 20%;
+	width: 80px;
+	margin: 10px;
+	background-color: green;
+}
+
+.runningtotal {
+	padding: 20px;
+	text-align: center;
+	height: 20%;
+	width: 20%;
+	width: 80px;
+	margin-right: 0px;
+	background-color: green;
+	margin: 10px;
+}
+
+.row {
+	margin-top: 10px;
+}
